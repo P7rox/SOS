@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "616160808357",
+    "firebase_url": "https://sos-new.firebaseio.com",
+    "project_id": "sos-new",
+    "storage_bucket": "sos-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616160808357:android:fe5fa8ed6fd2b658",
+        "android_client_info": {
+          "package_name": "com.prajwal.firebasesos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616160808357-7gja157hpe93c9f9tga7crierejqgpql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC34TWlv0vQBJp6W9JBFEk6wR_AdORa26M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
